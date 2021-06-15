@@ -1,0 +1,17 @@
+#div1 img{
+    width: 200px;
+    border: rgb(10, 7, 10) solid 2px;
+    border-radius: 20px;
+    box-shadow: 15px 3px 15px rgb(240, 240, 250);
+}
+
+#div2 img{
+    width: 200px;
+    border: rgb(10, 7, 10) solid 2px;
+    border-radius: 20px;
+    box-shadow: 15px 3px 15px rgb(240, 240, 250);
+}
+body{
+    background-image: linear-gradient(to right top, #ffa266, #ffb060, #ffc05b, #ffd058, #ffe158, #ffd559, #ffc95c, #ffbd5f, #ff9776, #ff7ba3, #e077d2, #8383f0);
+    font-family: 'Open Sans', sans-serif;
+}
